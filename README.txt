@@ -10,4 +10,4 @@
 ;
 ;********************************************************
 
-A perl app which automatically posts status updates in the common "travel" (city --> city) format, to make it look like the user spends alot time in, and flying between random mid-western cities. 
+A perl driven Twitter bot which automatically posts status updates in the common "travel" (city --> city) format, to make it look like the user spends alot time in, and flying between random mid-western cities. 
